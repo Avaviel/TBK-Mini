@@ -1,4 +1,6 @@
 # TBK Mini
+PLEASE NOTE
+This is a simple mirroring of the files as they were in the uploaded state of MINI_V2 v89.f3d. I did not use stl files, but 3mf files. They work with modern slicers just fine, and the Fusion file is there too.
 
 A Dactyl Manuform Mini. Silent and compact, with per-key RGB.
 
